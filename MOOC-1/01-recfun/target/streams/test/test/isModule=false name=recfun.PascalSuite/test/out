@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mPascalSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: recfun.PascalSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.StackOverflowError:[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

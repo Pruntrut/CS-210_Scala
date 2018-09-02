@@ -1,0 +1,307 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/common/package$.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/common/package.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+2 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> /home/luca/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> /home/luca/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> common.package
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> common.package$
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+180 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> ::
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> <init>
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> <repeated>
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> ?0
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> A
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Any
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> AnyRef
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> B
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Boolean
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Class
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> File
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> FileInputStream
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Function2
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> InputStream
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> List
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> None
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Nothing
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Object
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Option
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Predef
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> Some
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> String
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> URI
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> URL
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> _root_
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> child
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> children
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> classesDir
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> common
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> exists
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> file
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> foldLeft
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> getClass
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> getParentFile
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> getResource
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> io
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> java
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> package
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> projectDir
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> resourceFile
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> resourcePath
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> scala
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> subFile
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> toURI
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> &&
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> +
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ++
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ::
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> :::
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> <=
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> <repeated>
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ==
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> A
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> A1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Any
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> B
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> CanBuildFrom
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Char
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Coll
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Function2
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> GenTraversableOnce
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> IndexOutOfBoundsException
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Int
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Iterator
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> List
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> MatchError
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> None
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Nothing
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Object
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Product
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Some
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> String
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> StringOps
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> T
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> T0
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> T1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> T2
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> T3
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> T4
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> That
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> Tuple4
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> _1
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> _2
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> a
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> acc
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> add
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> annotation
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> apply
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> b
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> bits
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> bs
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> c
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> char
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> chars
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> combine
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> contains
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> convert
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> decode
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> eq
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> f
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> filter
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> foldLeft
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> fs
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> head
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> insert
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> l
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> left
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> map
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> mix
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> n
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ne
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> occ
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> package
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> path
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> predicate
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> r
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> right
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> scala
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> secret
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> sort
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> str
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> t
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> table
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> tail
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> tailrec
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> text
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> times
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> toList
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> toString
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> transform
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> traverse
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> tree
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> trees
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ts
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> until
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> weight
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> x
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> xs
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> y
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ys
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+17 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1535211830534)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1535211830522)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/common/package.class -> lastModified(1535211830442)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class -> lastModified(1535211830622)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1535211830626)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1535211830630)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1535211830634)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1535211830638)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1535211830642)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1535211830646)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1535211830618)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1535211830646)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1535211830670)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1535211830662)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1535211830686)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1535211830678)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1535211830554)
+source stamps:
+2 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> hash(df18318cd6d036153c8b20a1e29a41dae6424496)
+binary stamps:
+1 items
+/home/luca/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+1 items
+/home/luca/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.runtime.AbstractFunction4
+internal apis:
+2 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNR5ezQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxBALLnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAM1Ez2oXQACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM2tY31nQABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAzTr+AcdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyruj4odAAIZmluYWxpemVzcQB+AAzDjCCldAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBlc3EAfgBgdXEAfgBCAAAAAHNxAH4AYHVxAH4AQgAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZXHBZIB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDL2hvbWUvbHVjYS9Db2RpbmcvU2NhbGEvTW9vY0JBMi8wNC1wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw62fJUAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUWJ9KXQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADCLp1Md0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADAxVSN10AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAMF1XOA3QACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAzv1mgFdAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAMS89n5nQABiRpbml0JHNxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADGoJEUh0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAySTXI6dAAERm9ya3NxAH4ADCXGoJJ0AANCaXRzcQB+AAyykPVvdAACbmVzcQB+AAxDwK/IdAATbWFrZU9yZGVyZWRMZWFmTGlzdHNxAH4ADOCpjvF0AAhDb2RlVHJlZXNxAH4ADMd0bZF0AAJlcXNxAH4ADId5BKh0AAdjb252ZXJ0c3EAfgAMXh7u1XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBmtLgZ0AAVyaWdodHNxAH4ADCGmWoh0AAIjI3NxAH4ADMcGqC90AAhmaW5hbGl6ZXNxAH4ADFUl1x50AA5wcm9kdWN0RWxlbWVudHNxAH4ADP4uOLJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5wYXRtYXQuSHVmZm1hbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABhzY2FsYS5hbm5vdGF0aW9uLnRhaWxyZWN0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJVMAAlpbmhlcml0ZWRxAH4AlUwAB3BhcmVudHNxAH4AlXhxAH4AtHNxAH4Ar3VxAH4AkAAAAABzcQB+AK91cQB+AJAAAAAAc3EAfgCvdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCzdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDMdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDNc3EAfgDAdAADQW55c3EAfgDEc3EAfgDHdXEAfgDKAAAAAnNxAH4AzHQABXNjYWxhcQB+ANN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWVxwWSAdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9ob21lL2x1Y2EvQ29kaW5nL1NjYWxhL01vb2NCQTIvMDQtcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTfGDGM1tA2FTyLIKHimkHa5kJElg==
+external apis:
+0 items
+source infos:
+2 items
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/luca/Coding/Scala/MoocBA2/04-patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZXHBZIB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2x1Y2EvQ29kaW5nL1NjYWxhL01vb2NCQTIvMDQtcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

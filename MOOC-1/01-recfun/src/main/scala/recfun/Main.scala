@@ -1,0 +1,41 @@
+package recfun
+
+object Main {
+  def main(args: Array[String]) {
+    println("Pascal's Triangle")
+    for (row <- 0 to 10) {
+      for (col <- 0 to row)
+        print(pascal(col, row) + " ")
+      println()
+    }
+  }
+
+  /**
+   * Exercise 1
+   */
+    def pascal(c: Int, r: Int): Int =
+      if (c == 0 || c >= r) 1
+      else pascal(c-1, r-1) + pascal(c, r-1)
+  /**
+   * Exercise 2
+   */
+    def balance(chars: List[Char]): Boolean = {
+      def isBalanced(rest: List[Char], stack: List[Char]): Boolean = {
+        if (rest.isEmpty)          stack.isEmpty
+        else if (rest.head == '(')                   isBalanced(rest.tail, '(' :: stack)
+        else if (rest.head == ')' && stack.nonEmpty) isBalanced(rest.tail, stack.tail)
+        else if (rest.head == ')' && stack.isEmpty)  false
+        else isBalanced(rest.tail, stack)
+      }
+
+      isBalanced(chars, List.empty)
+    }
+
+  /**
+   * Exercise 3
+   */
+    def countChange(money: Int, coins: List[Int]): Int =
+      if (coins.isEmpty || money < 0) 0
+      else if (money == 0) 1
+      else countChange(money - coins.head, coins) + countChange(money, coins.tail)
+  }
