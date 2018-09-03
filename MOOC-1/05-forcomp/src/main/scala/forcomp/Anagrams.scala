@@ -1,5 +1,7 @@
 package forcomp
 
+import scala.collection.SortedMap
+
 
 object Anagrams {
 
@@ -37,7 +39,7 @@ object Anagrams {
   def wordOccurrences(w: Word): Occurrences = w.toLowerCase.groupBy(identity).map({ case (c, s) => (c, s.length) }).toList.sorted
 
   /** Converts a sentence into its character occurrence list. */
-  def sentenceOccurrences(s: Sentence): Occurrences = s flatMap wordOccurrences
+  def sentenceOccurrences(s: Sentence): Occurrences = wordOccurrences(s reduceLeft  (_ ++ _))
 
   /** The `dictionaryByOccurrences` is a `Map` from different occurrences to a sequence of all
    *  the words that have that occurrence count.
@@ -107,7 +109,7 @@ object Anagrams {
    *  Note: the resulting value is an occurrence - meaning it is sorted
    *  and has no zero-entries.
    */
-  def subtract(x: Occurrences, y: Occurrences): Occurrences = y.toMap.foldLeft(x.toMap)({
+  def subtract(x: Occurrences, y: Occurrences): Occurrences = y.foldLeft(SortedMap[Char, Int]() ++ x.toMap)({
     case (acc, (c, ny)) => if (acc(c) == ny) acc - c else acc.updated(c, acc(c) - ny)
   }).toList
 
@@ -151,7 +153,18 @@ object Anagrams {
    *
    *  Note: There is only one anagram of an empty sentence.
    */
-  def sentenceAnagrams(sentence: Sentence): List[Sentence] =
-    if (sentence.isEmpty) Nil
-    else sentenceOccurrences(sentence)
+  def sentenceAnagrams(sentence: Sentence): List[Sentence] = {
+    def subAnagrams(occurrences: Occurrences): List[Sentence] = {
+      if (occurrences.isEmpty) List(List())
+      else for {
+        combination <- combinations(occurrences)
+        word <- dictionaryByOccurrences getOrElse (combination, Nil)
+        rest <- subAnagrams(subtract(occurrences, combination))
+        if combination.nonEmpty
+      } yield  word :: rest
+    }
+
+    subAnagrams(sentenceOccurrences(sentence))
+  }
+    
 }
